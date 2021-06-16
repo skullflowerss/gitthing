@@ -1,1 +1,3 @@
 # gitthing
+
+Gitsome, learning gits.
