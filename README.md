@@ -3,7 +3,7 @@
 Gitsome, learning gits.
 
 
-##Subheader
+## Subheader
 
 Sup, a try using git
 
@@ -14,3 +14,7 @@ Trying git from vscode
 ## From other place
 
 Setting up another thing for this to work
+
+## Local Development
+
+Open index.html in your browser
